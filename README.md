@@ -192,14 +192,6 @@ O Dockerfile utiliza build multi-stage para otimizar o tamanho da imagem final:
 - Imagem final baseada em Alpine Linux
 - Certificados SSL incluídos para requisições HTTPS
 
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
